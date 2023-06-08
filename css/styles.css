@@ -12,7 +12,7 @@
   --font-sm:0.875rem;
   --font-med: 1rem;
   --fontFamily: 'Outfit', sans-serif;
-  --radius: .5rem;
+  --radius: 2rem;
 }
 body{
   background-color: var(--light-gray);
